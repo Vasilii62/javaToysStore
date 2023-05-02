@@ -316,14 +316,6 @@ public class DrawingModel {
         }
         return null;
     }
-/*
-    @Override
-    public String toString() {
-        String res = "";
-        for (Buyer item : buyers) {
-            res += item.toString();
-        }
-        return "Таблица покупателей\n---------------\n: " + res;
-    }*/
+
 
 }

@@ -167,8 +167,6 @@ public class Menu {
                         break;
                 }
             }
-            // для отладки
-            // System.out.println("Отладка. Текущая позиция меню: " + getNewPos());
 
             if (ShowNewChoice) {
                 // Считываем новый выбранный пункт меню - Choice
