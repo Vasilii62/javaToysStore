@@ -1,8 +1,8 @@
-package viev;
+package view;
 
 import java.util.*;
 import classes.*;
-public class BuyersViev {
+public class BuyersView {
     List<Buyer> buyers;
 
     public BuyersView(List<Buyer> buyers) {
